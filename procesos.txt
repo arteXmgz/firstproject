@@ -1,0 +1,4 @@
+     UID     PID    PPID  TTY        STIME COMMAND
+AMG-ASUS   11416    9300 pty0     18:53:04 /usr/bin/ps
+AMG-ASUS   14772       1 ?        17:19:13 /usr/bin/mintty
+AMG-ASUS    9300   14772 pty0     17:19:13 /usr/bin/bash
